@@ -1,0 +1,65 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 207676,
+                "file_path": "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-207676.onnx",
+                "reward": null,
+                "creation_time": 1658928330.4014034,
+                "auxillary_file_paths": [
+                    "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-207676.pt"
+                ]
+            },
+            {
+                "steps": 441333,
+                "file_path": "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-441333.onnx",
+                "reward": null,
+                "creation_time": 1658929687.4558241,
+                "auxillary_file_paths": [
+                    "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-441333.pt"
+                ]
+            },
+            {
+                "steps": 499947,
+                "file_path": "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-499947.onnx",
+                "reward": null,
+                "creation_time": 1658930066.2482147,
+                "auxillary_file_paths": [
+                    "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-499947.pt"
+                ]
+            },
+            {
+                "steps": 539077,
+                "file_path": "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-539077.onnx",
+                "reward": null,
+                "creation_time": 1658930336.5613828,
+                "auxillary_file_paths": [
+                    "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-539077.pt"
+                ]
+            },
+            {
+                "steps": 542208,
+                "file_path": "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-542208.onnx",
+                "reward": null,
+                "creation_time": 1658931970.6595776,
+                "auxillary_file_paths": [
+                    "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-542208.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 542208,
+            "file_path": "results\\MoveToGoalFinal\\MoveToGoal.onnx",
+            "reward": null,
+            "creation_time": 1658931970.6595776,
+            "auxillary_file_paths": [
+                "results\\MoveToGoalFinal\\MoveToGoal\\MoveToGoal-542208.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.0+cpu"
+    }
+}

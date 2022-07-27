@@ -1,0 +1,29 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 8002,
+                "file_path": "results\\Obs\\MoveToGoal\\MoveToGoal-8002.onnx",
+                "reward": null,
+                "creation_time": 1658847111.666014,
+                "auxillary_file_paths": [
+                    "results\\Obs\\MoveToGoal\\MoveToGoal-8002.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 8002,
+            "file_path": "results\\Obs\\MoveToGoal.onnx",
+            "reward": null,
+            "creation_time": 1658847111.666014,
+            "auxillary_file_paths": [
+                "results\\Obs\\MoveToGoal\\MoveToGoal-8002.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.0+cpu"
+    }
+}

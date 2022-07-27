@@ -1,0 +1,56 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 209927,
+                "file_path": "results\\RealTest\\MoveToGoal\\MoveToGoal-209927.onnx",
+                "reward": null,
+                "creation_time": 1658859969.1175516,
+                "auxillary_file_paths": [
+                    "results\\RealTest\\MoveToGoal\\MoveToGoal-209927.pt"
+                ]
+            },
+            {
+                "steps": 211503,
+                "file_path": "results\\RealTest\\MoveToGoal\\MoveToGoal-211503.onnx",
+                "reward": null,
+                "creation_time": 1658860191.7665014,
+                "auxillary_file_paths": [
+                    "results\\RealTest\\MoveToGoal\\MoveToGoal-211503.pt"
+                ]
+            },
+            {
+                "steps": 213823,
+                "file_path": "results\\RealTest\\MoveToGoal\\MoveToGoal-213823.onnx",
+                "reward": null,
+                "creation_time": 1658861641.6236122,
+                "auxillary_file_paths": [
+                    "results\\RealTest\\MoveToGoal\\MoveToGoal-213823.pt"
+                ]
+            },
+            {
+                "steps": 220206,
+                "file_path": "results\\RealTest\\MoveToGoal\\MoveToGoal-220206.onnx",
+                "reward": null,
+                "creation_time": 1658861896.0615327,
+                "auxillary_file_paths": [
+                    "results\\RealTest\\MoveToGoal\\MoveToGoal-220206.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 220206,
+            "file_path": "results\\RealTest\\MoveToGoal.onnx",
+            "reward": null,
+            "creation_time": 1658861896.0615327,
+            "auxillary_file_paths": [
+                "results\\RealTest\\MoveToGoal\\MoveToGoal-220206.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.0+cpu"
+    }
+}

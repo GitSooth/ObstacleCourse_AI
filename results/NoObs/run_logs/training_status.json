@@ -1,0 +1,65 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 256833,
+                "file_path": "results\\NoObs\\MoveToGoal\\MoveToGoal-256833.onnx",
+                "reward": 0.9400000013411045,
+                "creation_time": 1658843307.4354575,
+                "auxillary_file_paths": [
+                    "results\\NoObs\\MoveToGoal\\MoveToGoal-256833.pt"
+                ]
+            },
+            {
+                "steps": 306738,
+                "file_path": "results\\NoObs\\MoveToGoal\\MoveToGoal-306738.onnx",
+                "reward": -1.0533332824707031,
+                "creation_time": 1658844364.6201463,
+                "auxillary_file_paths": [
+                    "results\\NoObs\\MoveToGoal\\MoveToGoal-306738.pt"
+                ]
+            },
+            {
+                "steps": 358905,
+                "file_path": "results\\NoObs\\MoveToGoal\\MoveToGoal-358905.onnx",
+                "reward": null,
+                "creation_time": 1658845221.3388782,
+                "auxillary_file_paths": [
+                    "results\\NoObs\\MoveToGoal\\MoveToGoal-358905.pt"
+                ]
+            },
+            {
+                "steps": 395181,
+                "file_path": "results\\NoObs\\MoveToGoal\\MoveToGoal-395181.onnx",
+                "reward": null,
+                "creation_time": 1658846042.7562757,
+                "auxillary_file_paths": [
+                    "results\\NoObs\\MoveToGoal\\MoveToGoal-395181.pt"
+                ]
+            },
+            {
+                "steps": 395309,
+                "file_path": "results\\NoObs\\MoveToGoal\\MoveToGoal-395309.onnx",
+                "reward": null,
+                "creation_time": 1658846075.553127,
+                "auxillary_file_paths": [
+                    "results\\NoObs\\MoveToGoal\\MoveToGoal-395309.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 395309,
+            "file_path": "results\\NoObs\\MoveToGoal.onnx",
+            "reward": null,
+            "creation_time": 1658846075.553127,
+            "auxillary_file_paths": [
+                "results\\NoObs\\MoveToGoal\\MoveToGoal-395309.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.8.0+cpu"
+    }
+}
